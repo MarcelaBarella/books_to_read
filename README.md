@@ -9,11 +9,14 @@ This repository was made with the purpose of listing the programming books that 
 - The Pragmatic Programmer: From Journeyman to Master. Andrews Hunt, David Thomas.
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. Gregor Hohpe, Bobby Wolf.  
 - Design Patterns: Elements of Reusable Object-Oriented Software. Erich Gamma, Richard Helm, Ralph Johnson, John Visslides.  
+- Cracking the Coding Interview: 189 Programming Questions and Solutions. Gayle Laakmaan McDowell.  
+- Programming Pearls. Jon Bentley.  
 
 ## Python
 - Think Python: How to Think Like a Computer Scientist. Allen B. Downey. **(Checked)**
 - Fluent Python: Clear, Concise, and Effective Programming. Luciano Ramalho.  
 - Python 3 Object-oriented Programming: Building robust and maintainable software with object oriented design patterns in Python. Dusty Phillips. **(Checked)**  
+- Mastering Object-oriented Python. Steven F.Lott  
 
 ## Leadership
 - Debugging Teams: Better Productivity through Collaboration. Brian W. Fitzpatrick, Ben Collins-Sussman.

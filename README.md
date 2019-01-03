@@ -11,6 +11,7 @@ This repository was made with the purpose of listing the programming books that 
 - Design Patterns: Elements of Reusable Object-Oriented Software. Erich Gamma, Richard Helm, Ralph Johnson, John Visslides.  
 - Cracking the Coding Interview: 189 Programming Questions and Solutions. Gayle Laakmaan McDowell.  
 - Programming Pearls. Jon Bentley.  
+- Building Microservices: Designing Fine-Grained Systems. Sam Newman.  
 
 ## Python
 - Think Python: How to Think Like a Computer Scientist. Allen B. Downey. **(Checked)**

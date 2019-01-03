@@ -31,4 +31,4 @@ This repository was made with the purpose of listing the programming books that 
 ## Other
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Jake Knapp, Braden Kowitz.  
 - Lean UX: Designing Great Products with Agile Teams. Jeff Gothelf, Josh Seiden.  
-- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. Steve Krug.  
+- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. Steve Krug. **(Checked)**

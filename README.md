@@ -12,6 +12,7 @@ This repository was made with the purpose of listing the programming books that 
 - Cracking the Coding Interview: 189 Programming Questions and Solutions. Gayle Laakmaan McDowell.  
 - Programming Pearls. Jon Bentley.  
 - Building Microservices: Designing Fine-Grained Systems. Sam Newman.  
+- Test Driven Development: By Example. Kent Beck.  
 
 ## Python
 - Think Python: How to Think Like a Computer Scientist. Allen B. Downey. **(Checked)**

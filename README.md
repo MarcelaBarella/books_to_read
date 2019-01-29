@@ -12,6 +12,7 @@ This repository was made with the purpose of listing the programming books that 
 - Programming Pearls. *Jon Bentley*.  
 - Building Microservices: Designing Fine-Grained Systems. *Sam Newman*.  
 - Test Driven Development: By Example. *Kent Beck*.  
+- The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  

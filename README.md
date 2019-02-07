@@ -21,7 +21,7 @@ This repository was made with the purpose of listing the programming books that 
 - Mastering Object-oriented Python. *Steven F.Lott*.  
 
 ## Leadership
-- Debugging Teams: Better Productivity through Collaboration. *Brian W. Fitzpatrick, Ben Collins-Sussman*.
+- **[X]** Debugging Teams: Better Productivity through Collaboration. *Brian W. Fitzpatrick, Ben Collins-Sussman*.
 - The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers. *Ben Horowitz*.  
 - Leaders Eat Last: Why Some Teams Pull Together and Others Don't. *Simon Sinek*.  
 - The First-Time Manager.	*Loren B. Belker, Jim McCormick, Gary S. Topchik*.  

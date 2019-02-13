@@ -13,6 +13,7 @@ This repository was made with the purpose of listing the programming books that 
 - Building Microservices: Designing Fine-Grained Systems. *Sam Newman*.  
 - Test Driven Development: By Example. *Kent Beck*.  
 - The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
+- The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  
@@ -29,6 +30,12 @@ This repository was made with the purpose of listing the programming books that 
 - The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You. *Steven R. Covey*.  
 - Scaling Up: How a Few Companies Make It...and Why the Rest Don't. *Verne Harnish*.  
 - Lean In: Women, Work, and the Will to Lead. *Sheryl Sandberg*.  
+- Drive: The Surprising Truth about What Motivates Us. *Daniel H. Pink*.
+- Peopleware: Productive Projects and Teams. *Tom DeMarco, Tim Lister*.
+- Startup Engeneering Management. *Piaw Na*.
+
+## Personal
+- Predictably Irrational: The Hidden Forces that Shape Our Decisions. *Dan Ariely*.
 
 ## Productivity
 - Deep Work: Rules for Focused Success in a Distracted World. *Cal Newport*.  

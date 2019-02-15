@@ -14,6 +14,7 @@ This repository was made with the purpose of listing the programming books that 
 - Test Driven Development: By Example. *Kent Beck*.  
 - The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
 - The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
+- The Art of Read
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  
@@ -33,9 +34,13 @@ This repository was made with the purpose of listing the programming books that 
 - Drive: The Surprising Truth about What Motivates Us. *Daniel H. Pink*.
 - Peopleware: Productive Projects and Teams. *Tom DeMarco, Tim Lister*.
 - Startup Engeneering Management. *Piaw Na*.
+- Rework. *Jason Fried, David Heinemeier Hansson*
+- Fearless Change: Patterns for Introducing New Ideas. *Mary Lynn Manns*
 
 ## Personal
 - Predictably Irrational: The Hidden Forces that Shape Our Decisions. *Dan Ariely*.
+- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman. *Dave Hoover, Adewale Oshineye*
+- Quiet: The Power of Introverts in a World That Can't Stop Talking. *Susan Cain*
 
 ## Productivity
 - Deep Work: Rules for Focused Success in a Distracted World. *Cal Newport*.  

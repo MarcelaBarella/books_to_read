@@ -14,7 +14,8 @@ This repository was made with the purpose of listing the programming books that 
 - Test Driven Development: By Example. *Kent Beck*.  
 - The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
 - The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
-- The Art of Read
+- Growing Object-Oriented Software, Guided by Tests. *Steve Freeman*
+- Test Driven Development: By Example. *Kent Back*
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  

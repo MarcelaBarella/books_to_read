@@ -27,6 +27,7 @@ This repository was made with the purpose of listing the programming books that 
 
 ## Ruby
 - Eloquent Ruby. *Russ Olsen*
+- Design Patterns in Ruby. *Russ Olsen*
 
 ## Leadership
 - **[X]** Debugging Teams: Better Productivity through Collaboration. *Brian W. Fitzpatrick, Ben Collins-Sussman*.

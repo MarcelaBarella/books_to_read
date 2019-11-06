@@ -16,7 +16,7 @@ This repository was made with the purpose of listing the programming books that 
 - The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
 - Growing Object-Oriented Software, Guided by Tests. *Steve Freeman*
 - Test Driven Development: By Example. *Kent Back*
-- The Agile Samurai: How Agile Masters Deliver Great Software. *Jonatham Rasmusson, Susannah Davidson Pfalzer*.
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design. *Robert C. Martin*
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  

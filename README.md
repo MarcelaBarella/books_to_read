@@ -64,7 +64,7 @@ This repository was made with the purpose of listing the programming books that 
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. *Jake Knapp, Braden Kowitz*. 
 - Lean UX: Designing Great Products with Agile Teams. *Jeff Gothelf, Josh Seiden*.  
 - Planning Extreme Programming. *Kent Back, Martin Fowler*.  
-- The Agile Samurai: How Agile Masters Deliver Great Software. *Jonathan Rasmusson*
+- **[X]** The Agile Samurai: How Agile Masters Deliver Great Software. *Jonathan Rasmusson*
 
 ## Other
 - **[X]** Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. *Steve Krug*.  

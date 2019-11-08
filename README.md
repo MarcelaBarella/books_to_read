@@ -22,7 +22,7 @@ This repository was made with the purpose of listing the programming books that 
 - **[X]** Fluent Python: Clear, Concise, and Effective Programming. *Luciano Ramalho*.  
 -  **[X]** Python 3 Object-oriented Programming: Building robust and maintainable software with object oriented design patterns in Python. *Dusty Phillips*.    
 - Mastering Object-oriented Python. *Steven F.Lott*.  
-- Python Testing with pytest: Simple, Rapid, Effective, and Scalable. *Brian Okken*  
+- **[X]** Python Testing with pytest: Simple, Rapid, Effective, and Scalable. *Brian Okken*  
 
 ## Ruby
 - Eloquent Ruby. *Russ Olsen*

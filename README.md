@@ -15,7 +15,7 @@ This repository was made with the purpose of listing the programming books that 
 - The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
 - The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
 - Growing Object-Oriented Software, Guided by Tests. *Steve Freeman*
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design. *Robert C. Martin*
+- **[X]** Clean Architecture: A Craftsman's Guide to Software Structure and Design. *Robert C. Martin*
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  

@@ -16,6 +16,7 @@ This repository was made with the purpose of listing the programming books that 
 - The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
 - Growing Object-Oriented Software, Guided by Tests. *Steve Freeman*
 - **[X]** Clean Architecture: A Craftsman's Guide to Software Structure and Design. *Robert C. Martin*
+- The Nature of Code. *Daniel Shiffman*
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  

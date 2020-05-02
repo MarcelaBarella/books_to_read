@@ -67,6 +67,11 @@ This repository was made with the purpose of listing the programming books that 
 - Planning Extreme Programming. *Kent Back, Martin Fowler*.  
 - **[X]** The Agile Samurai: How Agile Masters Deliver Great Software. *Jonathan Rasmusson*
 
+## Generative Design
+- Generative Design: Visualize, Program, and Create with JavaScript in p5.js. *Benedikt Gross*
+- Computational Drawing: From Foundational Exercises to Theories of Representation. *Carl Lostritto*
+- The Nature of Code. *Daniel Shiffman*
+
 ## Other
 - **[X]** Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. *Steve Krug*.  
 - Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams. *James Kalbach*.

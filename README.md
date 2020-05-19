@@ -5,9 +5,9 @@ This repository was made with the purpose of listing the programming books that 
 - Desining Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services. *Brendan Burns*.  
 -  **[X]** Domain Driven Desing: Tackling Complexity in the Heart of Software. *Eric Evans*.    
 -  **[X]** Clean Code: A Handbook of Agile Software Craftsmanship. *Robert C. Martin Series*.    
-- The Pragmatic Programmer: From Journeyman to Master. *Andrews Hunt, David Thomas*.
+- **[X]** The Pragmatic Programmer: From Journeyman to Master. *Andrews Hunt, David Thomas*.
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. *Gregor Hohpe, Bobby Wolf*.  
-- Design Patterns: Elements of Reusable Object-Oriented Software. *Erich Gamma, Richard Helm, Ralph Johnson, John Visslides*.  
+- Design Patterns: Elements of Reusable Object-Oriented Software. *Erich Gamma, Richard Helm, Ralph Johnson, John Visslides*. 
 - Cracking the Coding Interview: 189 Programming Questions and Solutions. *Gayle Laakmaan McDowell*.  
 - Programming Pearls. *Jon Bentley*.  
 - Building Microservices: Designing Fine-Grained Systems. *Sam Newman*.  

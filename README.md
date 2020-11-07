@@ -23,7 +23,8 @@ This repository was made with the purpose of listing the programming books that 
 - **[X]** Fluent Python: Clear, Concise, and Effective Programming. *Luciano Ramalho*.  
 -  **[X]** Python 3 Object-oriented Programming: Building robust and maintainable software with object oriented design patterns in Python. *Dusty Phillips*.    
 - Mastering Object-oriented Python. *Steven F.Lott*.  
-- **[X]** Python Testing with pytest: Simple, Rapid, Effective, and Scalable. *Brian Okken*  
+- **[X]** Python Testing with pytest: Simple, Rapid, Effective, and Scalable. *Brian Okken*.  
+- Effective Python: 90 Specific Ways to Write Better Python. *Brett Slatkin*.  
 
 ## Ruby
 - Eloquent Ruby. *Russ Olsen*
@@ -39,11 +40,11 @@ This repository was made with the purpose of listing the programming books that 
 - Scaling Up: How a Few Companies Make It...and Why the Rest Don't. *Verne Harnish*.  
 - Lean In: Women, Work, and the Will to Lead. *Sheryl Sandberg*.  
 - Drive: The Surprising Truth about What Motivates Us. *Daniel H. Pink*.
-- Peopleware: Productive Projects and Teams. *Tom DeMarco, Tim Lister*.
-- Startup Engeneering Management. *Piaw Na*.
-- Rework. *Jason Fried, David Heinemeier Hansson*.
-- Fearless Change: Patterns for Introducing New Ideas. *Mary Lynn Manns*.
-- **[X]** The Five Dysfunctions of a Team. *Patrick Lencioni*.
+- Peopleware: Productive Projects and Teams. *Tom DeMarco, Tim Lister*.  
+- Startup Engeneering Management. *Piaw Na*.  
+- Rework. *Jason Fried, David Heinemeier Hansson*.  
+- Fearless Change: Patterns for Introducing New Ideas. *Mary Lynn Manns*.  
+- **[X]** The Five Dysfunctions of a Team. *Patrick Lencioni*.  
 
 ## Personal
 - Predictably Irrational: The Hidden Forces that Shape Our Decisions. *Dan Ariely*.

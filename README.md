@@ -41,8 +41,9 @@ This repository was made with the purpose of listing the programming books that 
 - Drive: The Surprising Truth about What Motivates Us. *Daniel H. Pink*.
 - Peopleware: Productive Projects and Teams. *Tom DeMarco, Tim Lister*.
 - Startup Engeneering Management. *Piaw Na*.
-- Rework. *Jason Fried, David Heinemeier Hansson*
-- Fearless Change: Patterns for Introducing New Ideas. *Mary Lynn Manns*
+- Rework. *Jason Fried, David Heinemeier Hansson*.
+- Fearless Change: Patterns for Introducing New Ideas. *Mary Lynn Manns*.
+- **[X]** The Five Dysfunctions of a Team. *Patrick Lencioni*.
 
 ## Personal
 - Predictably Irrational: The Hidden Forces that Shape Our Decisions. *Dan Ariely*.

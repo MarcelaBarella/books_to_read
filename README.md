@@ -1,5 +1,5 @@
 # Books to read
-This repository was made with the purpose of listing the programming books that I think I should read(and that I already read) and to keep it as sugestion to other programmers. ~~And maybe some other books to.~~
+This repository was made with the purpose of listing the programming books that I think I should read (and that I already read) and to keep it as sugestion to other programmers. ~~And maybe some other books to.~~
 
 ## Programming
 - Desining Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services. *Brendan Burns*.  
@@ -7,16 +7,28 @@ This repository was made with the purpose of listing the programming books that 
 -  **[X]** Clean Code: A Handbook of Agile Software Craftsmanship. *Robert C. Martin Series*.    
 - **[X]** The Pragmatic Programmer: From Journeyman to Master. *Andrews Hunt, David Thomas*.
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. *Gregor Hohpe, Bobby Wolf*.  
-- Design Patterns: Elements of Reusable Object-Oriented Software. *Erich Gamma, Richard Helm, Ralph Johnson, John Visslides*. 
-- Cracking the Coding Interview: 189 Programming Questions and Solutions. *Gayle Laakmaan McDowell*.  
+- **[X]**  Design Patterns: Elements of Reusable Object-Oriented Software. *Erich Gamma, Richard Helm, Ralph Johnson, John Visslides*. 
+- **[X]**  Cracking the Coding Interview: 189 Programming Questions and Solutions. *Gayle Laakmaan McDowell*.  
 - Programming Pearls. *Jon Bentley*.  
-- Building Microservices: Designing Fine-Grained Systems. *Sam Newman*.  
+- **[X]** Building Microservices: Designing Fine-Grained Systems. *Sam Newman*.  
 - Test Driven Development: By Example. *Kent Beck*.  
 - The Go Programming Language. *Alan A. A. Donovan, Brian W. Kernighan*.
-- The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
+- **[X]** The Mythical Man-Month: Essays On Software Engineering. *Frederick P. Brooks*.
 - Growing Object-Oriented Software, Guided by Tests. *Steve Freeman*
 - **[X]** Clean Architecture: A Craftsman's Guide to Software Structure and Design. *Robert C. Martin*
 - The Nature of Code. *Daniel Shiffman*
+
+## Data
+- **[X]** Designing Data-Intensive Applications. *Martin Kleppmann*.
+- Data Architecture: A Primer for the Data Scientist. *W.H. Inmon, Daniel Linstedt, and Mary Levins*.
+- Streaming Systems. *Tyler Akidau, Slava Chernyak, and Reuven Lax*.
+- Enterprise Data Architecture: How to Navigate Its Landscape. *Dave Wells*.
+- Data Modeling for the Business. *Steve Hoberman, Donna Burbank, and Chris Bradley*.
+- Big Data: Principles and Best Practices of Scalable Real-time Data Systems. *Nathan Marz and James Warren*.
+- Kafka: The Definitive Guide. *Neha Narkhede, Gwen Shapira, and Todd Palino*.
+- Data-Intensive Systems: Principles and Fundamentals Using Hadoop and Spark. *Chaitanya Baru, Milind Bhandarkar, and Vipin Kumar*.
+- Data Engineering with Python. *Paul Crickard, Jesse Anderson, and Alberto Paro*.
+- Information Architecture for the World Wide Web: Designing Large-Scale Web Sites. *Peter Morville and Louis Rosenfeld*.
 
 ## Python
 -  **[X]** Think Python: How to Think Like a Computer Scientist. *Allen B. Downey*.  
@@ -25,10 +37,6 @@ This repository was made with the purpose of listing the programming books that 
 - Mastering Object-oriented Python. *Steven F.Lott*.  
 - **[X]** Python Testing with pytest: Simple, Rapid, Effective, and Scalable. *Brian Okken*.  
 - Effective Python: 90 Specific Ways to Write Better Python. *Brett Slatkin*.  
-
-## Ruby
-- Eloquent Ruby. *Russ Olsen*
-- Design Patterns in Ruby. *Russ Olsen*
 
 ## Leadership
 - **[X]** Debugging Teams: Better Productivity through Collaboration. *Brian W. Fitzpatrick, Ben Collins-Sussman*.
